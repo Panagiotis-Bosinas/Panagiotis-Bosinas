@@ -1,16 +1,23 @@
-<h1 align="center">Hi 👋, I'm Panagiotis Bosinas</h1>
+# Hi there, I'm Panagiotis Bosinas 👋
 
-- 🔭 I’m currently studying **Chemical Engineering at AUTh, Greece**
+🎓 **Undergraduate Student in Chemical Engineering**  
+📍 Aristotle University of Thessaloniki  
+🔍 Currently exploring MSc programs in **Informatics** or **Process Systems Engineering**
 
-- 🌱 I’m currently studying **Chemical Engineering at AUTh, Greece**
+---
 
-- 🤝 In search of MSc courses **in Informatics and Engineering**
+## 🚀 Skills & Tools
 
-- 📫 Reach me **mposinaspanagiotis@gmail.com**
+- **Programming:** Python, MatLab, FORTRAN
+- **Optimization & Simulation:** GAMS, ASPEN Plus/UniSim
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🎯 About Me
+
+I am passionate about combining my strong background in chemical engineering with computational approaches and informatics. I enjoy solving complex problems and continuously learning about new technologies and methodologies in both process engineering and computer science.
+
+---
+
+## 📫 Let's Connect
+-**mposinaspanagiotis@gmail.com**

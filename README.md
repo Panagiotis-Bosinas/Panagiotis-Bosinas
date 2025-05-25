@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Panagiotis Bosinas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently studying **Chemical Engineering at AUTh, Greece**
 

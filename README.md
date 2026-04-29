@@ -1,7 +1,7 @@
 # Hi there, I'm Panagiotis Bosinas 👋
 
 🎓 **Postgraduate Student in Artificial Intelligence**  
-   **Graduate in Chemical Engineering** 
+   **  Graduate in Chemical Engineering** 
 📍 Aristotle University of Thessaloniki  
 
 

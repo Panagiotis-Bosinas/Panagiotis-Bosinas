@@ -1,8 +1,9 @@
 # Hi there, I'm Panagiotis Bosinas 👋
 
-🎓 **Undergraduate Student in Chemical Engineering**  
+🎓 **Postgraduate Student in Artificial Intelligence**  
+   **Graduate in Chemical Engineering** 
 📍 Aristotle University of Thessaloniki  
-🔍 Currently exploring MSc programs in **Informatics** or **Process Systems Engineering**
+
 
 ---
 
